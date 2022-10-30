@@ -139,6 +139,7 @@ class Exchange {
         'idex',
         'independentreserve',
         'indodax',
+        'inlock',
         'itbit',
         'kraken',
         'kucoin',
